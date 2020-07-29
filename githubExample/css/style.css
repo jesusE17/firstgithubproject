@@ -13,6 +13,8 @@
 
 #txtLogo{
     /* Make the image size smaller */
+    max-width:200px;
+    height:200px;
 }
 
 #myButton{
